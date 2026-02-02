@@ -1,0 +1,54 @@
+/* types of selector */
+/* Universal selector */
+*{
+    background-color: greenyellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* Element Selector */
+p{
+    color: darkblue;
+
+}
+/* Class Selector */
+.heading{
+    color: blueviolet;
+    font-size: 800;
+}
+/* id selector */
+#id1{
+    color: goldenrod;
+    font: bold;
+}
+/* group Selector */
+h2,h3{
+    color: rgb(136, 13, 99);
+    text-align: center;
+}
+/* attribute Selector */
+input[type="text"]{
+    border: 2px solid red;
+}
+/* psuedo selector */
+a:hover{
+    color: red
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ;
+}
